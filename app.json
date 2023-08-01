@@ -8,6 +8,9 @@
     "navigationBarTitleText": "Weixin",
     "navigationBarTextStyle":"black"
   },
+  "resolveAlias": {
+    "@/*": "/*"
+  },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
 }
